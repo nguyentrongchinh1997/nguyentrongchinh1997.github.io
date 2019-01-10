@@ -1524,13 +1524,13 @@ video{
     color: #fff;
 }
 .songchung{
-    background-image: url("../image/songchung.jpg");
+    background-image: url("songchung.jpg");
     height: auto;
     background-repeat: no-repeat;
     background-size: cover !important;
 }
 .songchung1{
-    background-image: url("../image/songchung1.jpg");
+    background-image: url("songchung1.jpg");
     height: auto;
     background-repeat: no-repeat;
     background-size: cover !important;

@@ -1466,12 +1466,14 @@ video{
     max-height: 500px;
 }
 .dangnhap-index{
+    border-radius: 5px;
     max-width: 300px;
     height: 35px;
     border: 1px solid #e7e7e7;
     background: #fff;
 }
 .dangnhap-index input{
+    border-radius: 5px;
     width: 100%;
     height: 100%;
     border: 0px;
